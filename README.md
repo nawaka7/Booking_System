@@ -33,12 +33,12 @@ The application consists of four big parts: 1)defining data tables in MySQL, 2)i
     - seat number    
     
     
-## <<Inserting Basic Data>>
+## Inserting Basic Data
   - Basic data for the test run
   - three count functions defined
 
 
-## <<Declaring classes for the Application>>
+## Declaring classes for the Application
   1) Insert Class 
     - Insert data into the aforementioned 5 tables
   2) Delete Class
@@ -47,7 +47,7 @@ The application consists of four big parts: 1)defining data tables in MySQL, 2)i
     - Select (View) data from the aforementioned 5 tables
 
 
-## <<Executing the Application>>
+## Executing the Application
   - run the application
 
 
