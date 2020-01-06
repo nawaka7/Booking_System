@@ -4,7 +4,7 @@ A mini concert ticket booking system developed with Python and MySQL
 The application consists of four big parts: 1)defining data tables in MySQL, 2)inserting basic data, 3)declaring classes for the application, and 4)executing the application
 
 
-## <<Defining Data Tables >>
+## Defining Data Tables 
  1) Audience Table includes:
     - audience(user) id
     - audience(user) name
